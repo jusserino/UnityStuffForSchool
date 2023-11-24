@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 456bab0e82eddc84a930d1eaa1fa5c12
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Springer.unity
+    guid: 43bf4e3f2e16b364e97a02dcd03b8dbf
+  - enabled: 1
+    path: Assets/Scenes/Gates.unity
+    guid: c1072d5f024d52947967a9cc2098bbc7
+  - enabled: 1
+    path: Assets/Scenes/Darknesstest.unity
+    guid: 87afd8293e278414c97752653d5ba289
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: d3c9e2d6fa74e714fb6daf5c7acc5b1d
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: f0a47a7d88c3f9448b5850ed4332c435
+  m_configObjects: {}
